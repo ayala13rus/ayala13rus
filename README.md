@@ -18,5 +18,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayala13rus&" alt="ayala13rus" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayala13rus&label=Profile%20views&color=0e75b6&style=flat" alt="ayala13rus" /> </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayala13rus&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayala13rus&theme=algolia)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayala13rus" alt="ayala13rus" /></a> </p>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayala13rus&theme=algolia)
